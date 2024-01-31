@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#fff;
+    margin: 20px; 
+    
+    
+    }
+    .bio-container{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    background-color: #614347e7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+    }
+    .form-container{
+    margin-top: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(45, 58, 88, 0.1);
+    
+    }
+    
+    p {
+        text-align: justify;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .programming-table th, 
+    .programming-table td {
+        padding: 10px;
+        border: 1px solid #ddd;
+        text-align: left
+    
+    }
+    
+    .programming-table th {
+    background-color: #3f133b;
+    color: white ;
+    
+    
+    }
